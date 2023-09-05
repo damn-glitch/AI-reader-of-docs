@@ -21,10 +21,7 @@ This project provides a simple and user-friendly chatbot capable of answering qu
 3. Start the Streamlit app:
 ```streamlit run chatbot.py```
 
-## License:
-This project is licensed under the MIT License.
-
 ## Acknowledgments:
 - This project uses the [OpenAI API](https://openai.com) for natural language processing.
 
-Feel free to use this project.
+No Free use of project
